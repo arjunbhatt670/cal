@@ -1,10 +1,13 @@
-# Getting Started with Create React App
+# Calendar with React
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+![image](https://github.com/arjunbhatt670/cal/assets/47890778/8591d961-df51-40e5-95d2-cf89b01037e2)
 
 ## Available Scripts
 
 In the project directory, you can run:
+
+`nvm use`
+`npm install`
 
 ### `npm start`
 
@@ -13,11 +16,6 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 The page will reload if you make edits.\
 You will also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
 ### `npm run build`
 
